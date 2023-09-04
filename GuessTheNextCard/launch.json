@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Debug iOS",
+        "type": "reactnative",
+        "request": "launch",
+        "platform": "ios",
+        "target": "iPhone 12" // Replace with your desired target device
+      }
+    ]
+  }
+  
